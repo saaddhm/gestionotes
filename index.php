@@ -22,7 +22,7 @@
     <body class="bg-body-tertiary">
        <div class="container mt-5 p-2">
         <!-- add new student -->
-       <form action="assets/php/add.php" method="post" class="mb-5">
+       <form action="assets/php/add.php" method="post" class="mb-3">
       <div class="row">
         <div class="col-12 text-center">
             <h3>Add new Student</h3>
